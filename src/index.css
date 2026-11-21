@@ -1,0 +1,11 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: #222;
+  background: #f5f1ea;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
